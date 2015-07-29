@@ -1,0 +1,8 @@
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\bin\Debug\Covariance.exe.config
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\bin\Debug\Covariance.exe
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\bin\Debug\Covariance.pdb
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\obj\Debug\Covariance.csprojResolveAssemblyReference.cache
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\obj\Debug\Covariance.Properties.Resources.resources
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\obj\Debug\Covariance.csproj.GenerateResource.Cache
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\obj\Debug\Covariance.exe
+C:\Users\mauro.bilotti\Documents\Visual Studio 2012\Projects\Covariance\Covariance\obj\Debug\Covariance.pdb
